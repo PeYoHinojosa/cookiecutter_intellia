@@ -1,0 +1,7 @@
+name: Proyectos
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter
+prefix: /home/phinojosar/anaconda3/envs/Proyectos
